@@ -1,4 +1,3 @@
-<h1>Weather</h1
 <img src="screenshot.png">
 # Getting Started with Create React App
 
