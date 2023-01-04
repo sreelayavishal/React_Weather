@@ -1,3 +1,5 @@
+<h1>Weather</h1
+<img src="screenshot.png"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
